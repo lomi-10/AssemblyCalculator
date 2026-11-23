@@ -1,0 +1,1 @@
+A simple school activity for building a calculator using assembly language.
